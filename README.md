@@ -6,7 +6,7 @@ The goal of this project is to perform a detailed time-based analysis of sales d
 
 ## Dataset Overview
 
-###  • The dataset used in this project includes the following fields:
+ • The dataset used in this project includes the following fields:
 
  • order_id – Unique identifier for each order
 
