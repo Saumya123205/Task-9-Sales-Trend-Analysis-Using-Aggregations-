@@ -66,3 +66,7 @@ The goal of this project is to perform a detailed time-based analysis of sales d
 
 ### 5-Customer Spending Behavior:
  • Tracking the Average Order Value gives insight into how customer purchase patterns evolve over time.
+
+## 💼 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/saumyasuteshnu-behera-50a478209/)
